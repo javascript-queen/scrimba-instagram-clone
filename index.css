@@ -76,6 +76,11 @@ header {
   width: 23px;
 }
 
+.icon:hover {
+  height: 28px;
+  width: 28px;
+}
+
 #post {
   height: 375px;
   width: 375px;
